@@ -1,6 +1,6 @@
 # ICMP İstemci-Sunucu Uygulaması
 
->  Bu proje [Ders Adı/Tarih] kapsamında geliştirilmiş olup, portfolyo arşivlemesi amacıyla GitHub'a sonradan aktarılmıştır.
+>  Bu proje Aralık 2025 tarihinde Ağ Programlama dersi kapsamında geliştirilmiş olup, portfolyo arşivlemesi amacıyla GitHub'a sonradan aktarılmıştır.
 
 ## 1. Uygulama Tanıtımı
 
